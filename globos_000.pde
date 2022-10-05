@@ -30,8 +30,8 @@ ArrayList<Globo> globos;
 
 void setup()
 {
-  size(400, 400);
-  globos = new ArrayList<Globo>();
+  size(500,500);
+  globos = new ArrayList<Globo>();  
 }
 
 void draw()
